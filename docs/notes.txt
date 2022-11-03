@@ -1,0 +1,4 @@
+https://medium.com/nerd-for-tech/symfony-doctrine-database-encryption-50d7e01d8f69
+https://github.com/mogilvie/EncryptBundle
+https://github.com/mogilvie/EncryptBundle/releases
+v2.0.1
